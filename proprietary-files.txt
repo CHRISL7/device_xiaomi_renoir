@@ -1,3 +1,5 @@
+# Device proprietary files - from renoir MIUI V12.5.7.0.RKIMIXM package, unless pinned
+
 # ACDB
 vendor/etc/acdbdata/adsp_avs_config.acdb
 vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb
